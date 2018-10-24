@@ -1,0 +1,1 @@
+gunsayisi(n)%n yerine sayı yazınız

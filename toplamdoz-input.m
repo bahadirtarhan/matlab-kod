@@ -1,0 +1,1 @@
+n=10%gün(n) sayýsýný deðiþtirebilirsiniz
