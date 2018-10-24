@@ -1,0 +1,1 @@
+gunsayisigrafik(n)%n yerine sayı giriniz.
